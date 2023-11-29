@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @reoassap
+- 👋 Hi, I’m @reoassap, u can call me reo / fathur
 - 👀 I’m interested in editing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my studies
-- 📫 How to reach me @fooreoo_ on instagram
+- 📫 How to reach me : @fooreoo_ on instagram
 
 <!---
 reoassap/reoassap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
